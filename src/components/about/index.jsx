@@ -86,18 +86,6 @@ const About = () => {
 						placeItems: 'center',
 					}}
 				>
-					{/* <Box
-						component={'img'}
-						src="/rijvi.png"
-						sx={{
-							// height: 1, // for contain the original ratio image
-							height: 'auto',
-							width: '100%',
-							objectFit: 'cover',
-							objectPosition: 'center top',
-						}}
-					/> */}
-
 					<svg
 						xmlns="http://www.w3.org/2000/svg"
 						width="358"
